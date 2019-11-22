@@ -1,0 +1,15 @@
+{
+  "name": "kmh-chuck-norris-jokes",
+  "version": "1.0.0",
+  "description": "create random jokes",
+  "main": "src/JokeFactory.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "kyimyohan <kyimyohan0v0@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "nyc": "^14.1.1"
+  }
+}
