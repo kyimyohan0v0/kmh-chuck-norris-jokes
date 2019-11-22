@@ -13,7 +13,7 @@ npm install kmh-chuck-norris-jokes
 ## Usage
 
 ```node
-const JokeFactory = require('../src/JokeFactory')
+const JokeFactory = require('kmh-chuck-norris-jokes')
 
 const factory = new JokeFactory()
 factory.getRandomJoke()
