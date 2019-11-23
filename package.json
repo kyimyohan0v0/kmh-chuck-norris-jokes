@@ -1,6 +1,6 @@
 {
   "name": "kmh-chuck-norris-jokes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "create random jokes",
   "main": "src/JokeFactory.js",
   "scripts": {
@@ -11,5 +11,6 @@
   "devDependencies": {
     "jest": "^24.9.0",
     "nyc": "^14.1.1"
-  }
+  },
+  "dependencies": {}
 }
